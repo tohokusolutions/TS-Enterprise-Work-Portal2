@@ -1,0 +1,6 @@
+{
+  "name": "Tohoku Enterprise Portal & GA Admin Console",
+  "description": "Tohoku Solutions internal portal and GA administration console with link governance, staff user directory, role-based access permissions, and Thai-English bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
